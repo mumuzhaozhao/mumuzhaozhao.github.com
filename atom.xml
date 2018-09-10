@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>程序猿的脑洞</title>
+  <title>四维空间</title>
   
-  <subtitle>脑洞大开</subtitle>
+  <subtitle>四维空间</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.51hpz.com/"/>
+  <link href="http://lpblog.51hpz.com/"/>
   <updated>2018-09-09T10:10:48.723Z</updated>
-  <id>http://blog.51hpz.com/</id>
+  <id>http://lpblog.51hpz.com/</id>
   
   <author>
     <name>[object Object]</name>
@@ -17,35 +17,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>gittest</title>
-    <link href="http://blog.51hpz.com/2018/08/27/gittest/"/>
-    <id>http://blog.51hpz.com/2018/08/27/gittest/</id>
-    <published>2018-08-27T14:40:55.000Z</published>
-    <updated>2018-09-09T10:10:48.723Z</updated>
-    
-    <content type="html"><![CDATA[<p>git 分享</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;git 分享&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="技术积累" scheme="http://blog.51hpz.com/categories/%E6%8A%80%E6%9C%AF%E7%A7%AF%E7%B4%AF/"/>
-    
-    
-      <category term="git" scheme="http://blog.51hpz.com/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
     <title>hello hexo</title>
-    <link href="http://blog.51hpz.com/2018/08/26/helloworld/"/>
-    <id>http://blog.51hpz.com/2018/08/26/helloworld/</id>
+    <link href="http://lpblog.51hpz.com/2018/08/26/helloworld/"/>
+    <id>http://lpblog.51hpz.com/2018/08/26/helloworld/</id>
     <published>2018-08-26T14:02:48.000Z</published>
     <updated>2018-09-09T10:10:48.723Z</updated>
     
@@ -61,10 +35,10 @@
     
     </summary>
     
-      <category term="技术积累" scheme="http://blog.51hpz.com/categories/%E6%8A%80%E6%9C%AF%E7%A7%AF%E7%B4%AF/"/>
+      <category term="技术积累" scheme="http://lpblog.51hpz.com/categories/%E6%8A%80%E6%9C%AF%E7%A7%AF%E7%B4%AF/"/>
     
     
-      <category term="hexo" scheme="http://blog.51hpz.com/tags/hexo/"/>
+      <category term="hexo" scheme="http://lpblog.51hpz.com/tags/hexo/"/>
     
   </entry>
   

@@ -2,35 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.51hpz.com/search/index.html</loc>
+    <loc>http://lpblog.51hpz.com/search/index.html</loc>
     
     <lastmod>2018-09-09T10:10:48.725Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.51hpz.com/about/index.html</loc>
+    <loc>http://lpblog.51hpz.com/about/index.html</loc>
     
     <lastmod>2018-09-09T10:10:48.724Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.51hpz.com/2018/08/27/gittest/</loc>
+    <loc>http://lpblog.51hpz.com/2018/08/26/helloworld/</loc>
     
     <lastmod>2018-09-09T10:10:48.723Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.51hpz.com/2018/08/26/helloworld/</loc>
-    
-    <lastmod>2018-09-09T10:10:48.723Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.51hpz.com/404.html</loc>
+    <loc>http://lpblog.51hpz.com/404.html</loc>
     
     <lastmod>2018-09-09T10:10:48.721Z</lastmod>
     
